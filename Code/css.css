@@ -1,0 +1,124 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 Nov, 2018, 11:24:09 AM
+    Author     : lenovo
+*/
+
+
+.d-flex {
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+.flex-2 {
+    flex: 2;
+}
+.flex-3 {
+    flex: 3;
+}
+.flex-4 {
+    flex: 4;
+}
+.flex-5 {
+    flex: 5;
+}
+.flex-6 {
+    flex: 6;
+}
+.flex-8 {
+    flex: 8;
+}
+
+.f-1 {
+    font-size: 100px;
+}
+
+.body {
+    background: url('img/Police-Station.jpg') no-repeat;
+    background-size: cover;
+}
+
+
+.header {
+    color: white;
+    text-align: -webkit-center;
+    font-size: -webkit-xxx-large;
+    font-weight: 600;
+    background-color: black;
+    padding: 30px;
+    opacity: 0.7;
+}
+
+.nav-header {
+    background-color: black;
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+.nonveg-header {
+    color: #ba0101;
+    font-size: smaller;
+    background-color: seashell;
+    padding: 4px;
+}
+.veg-header {
+    color: green;
+    font-size: smaller;
+    background-color: seashell;
+    padding: 4px;
+}
+
+.nav-bar {
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    list-style-type: none
+}
+
+.nav-bar:hover {
+    color: green;
+    padding-right: 20px;
+    padding-left: 20px;
+    list-style-type: none
+}
+
+.list-anchor {
+    text-decoration: none;
+    color: #f1e726;
+}
+
+.list-anchor:hover {
+    text-decoration: none;
+    color: #ffd0c8;
+}
+
+.background{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    padding: 10px;
+    opacity: 0.8
+}
+
+.btn{
+    background-color: #983515;
+    border: 1px solid #771515;
+    padding: 7px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: bisque;
+    width: 50%;
+}
+
+.btn:hover{
+    background-color: #9a553e;
+    padding: 8px;
+}
+
